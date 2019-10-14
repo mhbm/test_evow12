@@ -1,0 +1,50 @@
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-spec {
+    background-color: #5e35b1 !important;
+    height: 60px;
+}
+
+.row-center {
+    margin: 0 auto;
+}
+
+#logoEvo {
+    margin-left: 30%;
+}
+
+#titleLogo {
+    margin-right: 30%;
+    color: white;
+    font-size: 1em;
+}
+
+.labelCadastro {
+    font-size: 72px;
+    font-family: monospace;
+}
+
+.textForm {
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.form-control {
+    padding-left: 10px;
+    height: 45px;
+}
+
+#submitCadastro {
+    background-color: #43a047;
+    height: 45px;
+    color: white;
+    margin: 0 auto;
+    display: block;
+}
+
+.jumbotron {
+    background-color: white;
+}
